@@ -1,8 +1,7 @@
-
-<img src="https://blinkies.cafe/b/blinkiesCafe-b4.gif"/> <br></br>
 Hi! My name is Sarah :) <br></br>
 I'm interested in cybersecurity, engineering, and programming!<br></br>
 I'm currently learning about network security and SQL. <br></br>
+
 
 
 
