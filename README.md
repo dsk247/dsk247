@@ -1,5 +1,5 @@
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
 
+<img src="https://blinkies.cafe/b/blinkiesCafe-b4.gif"/>
 <!--
 **dsk247/dsk247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
