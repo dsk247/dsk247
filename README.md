@@ -1,4 +1,4 @@
-<h2>Hi, I'm Sarah! <img src="https://i.pinimg.com/originals/71/23/2f/71232f86001b7ff8fd86911883a02f2b.gif" height="24" /></h2>
+<h2>Hi, I'm Sarah! <img src="https://i.pinimg.com/originals/71/23/2f/71232f86001b7ff8fd86911883a02f2b.gif" height="24" width="40" /></h2>
 <img align='right' src="https://i.pinimg.com/originals/c2/68/e0/c268e04a9c9b9b3e8f797babbe0b7344.gif" width="230" />
 <p><em>High school sophomore</a> . </em>
 
