@@ -13,7 +13,4 @@
 
 -----
 <a href="https://github.com/dsk247/dsk247/actions">
-<img align="right" alt="Build README" src="https://github.com/RaoHai/RaoHai/workflows/yuque/badge.svg?branch=master" />
-</a>
-<a  ![blinkiesCafe-0L](https://github.com/user-attachments/assets/8307e157-9158-4aef-a202-c4706e238767)
-</a>
+
