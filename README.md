@@ -1,1 +1,1 @@
-I make CyPat and CyCup scripts for Linux and Windows!<br></br>
+I like coding cybersecurity tournament toolkits and scripts<br></br>
